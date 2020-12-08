@@ -68,6 +68,8 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
+
+      ![](/hero1.png)
     type: content_section
   - type: blog_feed_section
     title: Wedding Site Samples
