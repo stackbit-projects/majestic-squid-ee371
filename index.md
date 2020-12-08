@@ -56,7 +56,7 @@ sections:
         image_position: left
         actions: []
         type: feature
-  - title: lorem-ipsum
+  - title: Website Samples
     content: >-
       ## Lorem ipsum
 
