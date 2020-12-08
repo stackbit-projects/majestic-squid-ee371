@@ -57,7 +57,7 @@ sections:
         actions: []
         type: feature
   - type: blog_feed_section
-    title: Samples
+    title: Wedding Site Samples
     show_recent: true
     recent_count: 3
   - type: cta_section
