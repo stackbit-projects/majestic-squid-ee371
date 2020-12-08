@@ -57,19 +57,7 @@ sections:
         actions: []
         type: feature
   - title: Website Samples
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-
-      ![](/hero1.png)
+    content: '<a href="nathanorick.com">![](/hero1.png)</a>'
     type: content_section
   - type: blog_feed_section
     title: Wedding Site Samples
