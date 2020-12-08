@@ -26,9 +26,9 @@ sections:
     features:
       - title: Mobile Friendly
         content: >-
-          Our websites are designed with mobile users in mind. All sites look
-          great on all screen sizes from the smallest phone to the biggest
-          monitor.
+          Our websites are designed with mobile users in mind. Your wedding
+          website will look great on all screen sizes from the smallest phone to
+          the biggest monitor.
         align: left
         image: Webp.net-resizeimage (1).png
         image_position: right
