@@ -42,7 +42,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         align: left
-        image: iphone12black_portrait.png
+        image: Webp.net-resizeimage.png
         image_position: left
         actions:
           - label: Learn More
