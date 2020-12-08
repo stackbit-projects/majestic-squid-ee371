@@ -50,9 +50,9 @@ sections:
             style: secondary
       - title: Custom URLs
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Unlike many other wedding website generators, we'll hook you up with
+          your own unique domain! Also, we save you the complicated work and
+          expenses associated with registering a domain and hosting a website.
         align: left
         image: green-mars.png
         image_position: right
