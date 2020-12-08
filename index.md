@@ -30,7 +30,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
-        image: futuristic-squid.png
+        image: terrific-dolphin.png
         image_position: right
         actions:
           - label: Learn More
