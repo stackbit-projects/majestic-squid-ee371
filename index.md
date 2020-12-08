@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We Build
+    title: 'We Build '
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
