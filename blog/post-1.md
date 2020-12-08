@@ -5,7 +5,7 @@ author: _data/team/dianne-ameter.yaml
 categories:
   - _data/categories/tutorials.yaml
   - _data/categories/general.yaml
-image: images/1.png
+image: sample1.png
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
