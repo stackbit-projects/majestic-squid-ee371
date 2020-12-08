@@ -50,10 +50,7 @@ sections:
         align: left
         image: green-mars.png
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
   - type: blog_feed_section
     title: Samples
     show_recent: true
