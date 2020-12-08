@@ -57,19 +57,28 @@ sections:
         actions: []
         type: feature
   - title: Website Samples
-    content: |-
+    content: >-
       ![](/sample1.png)
-      <a href="http://wedding.nathanorick.com/">View Live Demo</a>
+
+      <a href="https://content.nathanorick.com/weddings/sample/">View Live
+      Demo</a>
+
 
       ---
+
 
       ![](/sample2.png)
+
       <a href="http://wedding.nathanorick.com/">View Live Demo</a>
+
 
       ---
 
+
       ![](/sample3.png)
-      <a href="nathanorick.com">View Live Demo</a>
+
+      <a href="https://content.nathanorick.com/wedding/index.html">View Live
+      Demo</a>
     type: content_section
   - type: blog_feed_section
     title: Wedding Site Samples
