@@ -82,9 +82,7 @@ sections:
     type: content_section
   - type: cta_section
     title: Lets Get Started
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Drop us a note
     actions:
       - label: Learn More
         url: /features
