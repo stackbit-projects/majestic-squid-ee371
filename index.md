@@ -5,7 +5,7 @@ sections:
     title: Custom Wedding Websites
     subtitle: >-
       We'll work together to build the site that is right for you and your
-      future spouse
+      future spouse.
     actions:
       - label: Learn More
         url: /features
