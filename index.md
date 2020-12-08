@@ -50,16 +50,8 @@ sections:
         actions: []
       - title: ... And Much More
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Check out our samples below to see how we can help celebrate your big
+          day.
         align: center
         image_position: left
         actions: []
