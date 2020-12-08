@@ -54,7 +54,7 @@ sections:
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
           ante.
         align: left
-        image: images/feature.svg
+        image: Address Bar - Vector-01.png
         image_position: right
         actions:
           - label: Learn More
