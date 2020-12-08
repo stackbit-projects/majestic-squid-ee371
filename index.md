@@ -38,9 +38,9 @@ sections:
             style: secondary
       - title: RSVP
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Allow your guests to skip the stamp and RSVP online. To help you stay
+          organized, we'll save all of your RSVPs to a Google Sheet that that
+          stays updated with all the important information your guests provide.
         align: left
         image: famous-spider.png
         image_position: left
