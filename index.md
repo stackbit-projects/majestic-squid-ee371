@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We Build Custom Wedding Websites
-    subtitle: Lets work
+    subtitle: 'We''ll work together to build the site '
     actions:
       - label: Learn More
         url: /features
