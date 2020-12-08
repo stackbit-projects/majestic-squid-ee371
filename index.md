@@ -5,9 +5,6 @@ sections:
     title: Custom Wedding Websites
     subtitle: We'll work together to build the perfect site to celebrate your big day.
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
