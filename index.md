@@ -84,7 +84,7 @@ sections:
     title: Lets Get Started
     subtitle: >-
       Drop us a note, and we'll get back to you right away to begin building
-      youwebsite.
+      your website.
     actions:
       - label: Learn More
         url: /features
