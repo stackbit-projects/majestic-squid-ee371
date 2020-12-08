@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We Build Custom Wedding Websites
+    title: Custom Wedding Websites
     subtitle: >-
       We'll work together to build the site that is right for you and your
       future spouse
