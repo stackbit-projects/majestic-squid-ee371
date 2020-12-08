@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: royal-aluminum.png
+    image: hero.jpg
     image_position: right
     has_background: true
     background:
