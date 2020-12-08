@@ -26,9 +26,9 @@ sections:
     features:
       - title: Responsive
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Our websites are designed with mobile users in mind. All sites look
+          great on all screen sizes from the smallest phone to the biggest
+          monitor.
         align: left
         image: Webp.net-resizeimage (1).png
         image_position: right
