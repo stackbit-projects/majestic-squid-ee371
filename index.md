@@ -71,7 +71,7 @@ sections:
     type: content_section
   - type: blog_feed_section
     title: Wedding Site Samples
-    show_recent: true
+    show_recent: false
     recent_count: 3
   - type: cta_section
     title: This Is A CTA
