@@ -60,8 +60,14 @@ sections:
     content: |-
       ![](/sample1.png)
       <a href="nathanorick.com">View Live Demo</a>
+
+      ---
+
       ![](/sample2.png)
       <a href="nathanorick.com">View Live Demo</a>
+
+      ---
+
       ![](/sample3.png)
       <a href="nathanorick.com">View Live Demo</a>
     type: content_section
