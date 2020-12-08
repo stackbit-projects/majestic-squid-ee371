@@ -24,7 +24,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Responsive
+      - title: Mobile Friendly
         content: >-
           Our websites are designed with mobile users in mind. All sites look
           great on all screen sizes from the smallest phone to the biggest
