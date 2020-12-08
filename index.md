@@ -83,8 +83,8 @@ sections:
   - type: cta_section
     title: Lets Get Started
     subtitle: >-
-      Drop us a note, and we'll get back to you right away to begin your wedding
-      website.
+      Drop us a note, and we'll get back to you right away to begin building
+      youwebsite.
     actions:
       - label: Learn More
         url: /features
