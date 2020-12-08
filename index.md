@@ -32,10 +32,7 @@ sections:
         align: left
         image: Webp.net-resizeimage (1).png
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: RSVP
         content: >-
           Allow your guests to skip the stamp and RSVP online. To help you stay
