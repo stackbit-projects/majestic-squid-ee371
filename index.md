@@ -30,7 +30,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
-        image: pink-tulip.png
+        image: Webp.net-resizeimage (1).png
         image_position: right
         actions:
           - label: Learn More
