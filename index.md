@@ -48,7 +48,7 @@ sections:
         image: green-mars.png
         image_position: right
         actions: []
-      - title: lorem-ipsum
+      - title: A
         content: >-
           ## Lorem ipsum
 
