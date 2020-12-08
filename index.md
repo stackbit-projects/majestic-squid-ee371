@@ -81,7 +81,7 @@ sections:
       Demo</a>
     type: content_section
   - type: cta_section
-    title: This Is A CTA
+    title: Contact us to get started
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
