@@ -82,7 +82,9 @@ sections:
     type: content_section
   - type: cta_section
     title: Lets Get Started
-    subtitle: Drop us a note
+    subtitle: >-
+      Drop us a note, and we'll get back to you right away to begin your wedding
+      website.
     actions:
       - label: Learn More
         url: /features
