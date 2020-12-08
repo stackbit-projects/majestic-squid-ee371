@@ -80,10 +80,6 @@ sections:
       <a href="https://content.nathanorick.com/wedding/index.html">View Live
       Demo</a>
     type: content_section
-  - type: blog_feed_section
-    title: Wedding Site Samples
-    show_recent: false
-    recent_count: 3
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
