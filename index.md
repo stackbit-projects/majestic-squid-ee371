@@ -43,7 +43,7 @@ sections:
           euismod lacinia.
         align: left
         image: iphone12black_portrait.png
-        image_position: right
+        image_position: left
         actions:
           - label: Learn More
             url: /features
