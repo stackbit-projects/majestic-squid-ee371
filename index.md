@@ -41,10 +41,7 @@ sections:
         align: left
         image: famous-spider.png
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Custom URLs
         content: >-
           Unlike many other wedding website generators, we'll hook you up with
