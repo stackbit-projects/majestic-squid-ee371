@@ -57,7 +57,9 @@ sections:
         actions: []
         type: feature
   - title: Website Samples
-    content: '<a href="nathanorick.com">![](/hero1.png)</a>'
+    content: |-
+      ![](/hero1.png)
+      <a href="nathanorick.com">View Live Demo</a>
     type: content_section
   - type: blog_feed_section
     title: Wedding Site Samples
