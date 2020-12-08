@@ -81,7 +81,7 @@ sections:
       Demo</a>
     type: content_section
   - type: cta_section
-    title: ''
+    title: Lets Get Started
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
