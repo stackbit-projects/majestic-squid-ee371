@@ -52,7 +52,7 @@ sections:
         content: >-
           Unlike many other wedding website generators, we'll hook you up with
           your own unique domain! Also, we save you the complicated work and
-          expenses associated with registering a domain and hosting a website.
+          expenses of registering your own domain and hosting your website.
         align: left
         image: green-mars.png
         image_position: right
