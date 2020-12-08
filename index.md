@@ -59,12 +59,12 @@ sections:
   - title: Website Samples
     content: |-
       ![](/sample1.png)
-      <a href="nathanorick.com">View Live Demo</a>
+      <a href="http://wedding.nathanorick.com/">View Live Demo</a>
 
       ---
 
       ![](/sample2.png)
-      <a href="nathanorick.com">View Live Demo</a>
+      <a href="http://wedding.nathanorick.com/">View Live Demo</a>
 
       ---
 
