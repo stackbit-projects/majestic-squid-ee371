@@ -52,7 +52,7 @@ sections:
         content: >-
           Check out our samples below to see how we can help celebrate your big
           day.
-        align: right
+        align: center
         image_position: left
         actions: []
         type: feature
