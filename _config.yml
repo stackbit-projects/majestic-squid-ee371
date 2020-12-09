@@ -22,11 +22,7 @@ footer:
       url: /terms
       style: link
   has_social: true
-  social_links:
-    - label: Twitter
-      url: 'https://twitter.com/'
-      style: link
-      new_window: true
+  social_links: []
   content: '&copy; Stackbit-Starter. All rights reserved.'
   links:
     - label: Made with Stackbit.
