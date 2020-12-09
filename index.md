@@ -56,28 +56,35 @@ sections:
         image_position: left
         actions: []
         type: feature
-  - title: lorem-ipsum
+  - title: Website Samples
     content: >-
-      ## Lorem ipsum
+      ![](/sample1.png)
+
+      <a href="https://content.nathanorick.com/weddings/sample/">View Live
+      Demo</a>
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ---
 
 
-      - Lorem ipsum
+      ![](/sample2.png)
 
-      - dolor sit amet
+      <a href="http://wedding.nathanorick.com/">View Live Demo</a>
+
+
+      ---
+
+
+      ![](/sample3.png)
+
+      <a href="https://content.nathanorick.com/wedding/index.html">View Live
+      Demo</a>
     type: content_section
-  - type: blog_feed_section
-    title: Wedding Site Samples
-    show_recent: false
-    recent_count: 3
   - type: cta_section
-    title: This Is A CTA
+    title: Lets Get Started
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Drop us a note, and we'll get back to you right away to begin building
+      your website.
     actions:
       - label: Learn More
         url: /features
