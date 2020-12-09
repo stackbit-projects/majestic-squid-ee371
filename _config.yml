@@ -18,9 +18,6 @@ footer:
     - label: Contact Us
       url: /contact
       style: link
-    - label: Privacy and Term
-      url: /terms
-      style: link
   has_social: true
   social_links: []
   content: '&copy; Stackbit-Starter. All rights reserved.'
