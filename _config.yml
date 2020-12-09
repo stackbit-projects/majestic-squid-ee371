@@ -18,7 +18,7 @@ footer:
     - label: Contact Us
       url: /contact
       style: link
-    - label: Privacy and Terms
+    - label: Privacy and Term
       url: /terms
       style: link
   has_social: true
