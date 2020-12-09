@@ -18,15 +18,8 @@ footer:
     - label: Contact Us
       url: /contact
       style: link
-    - label: Privacy and Terms
-      url: /terms
-      style: link
   has_social: true
-  social_links:
-    - label: Twitter
-      url: 'https://twitter.com/'
-      style: link
-      new_window: true
+  social_links: []
   content: '&copy; Stackbit-Starter. All rights reserved.'
   links:
     - label: Made with Stackbit.
